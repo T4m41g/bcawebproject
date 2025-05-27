@@ -159,11 +159,11 @@ section h1{
 section div iframe:hover{
     transform: scale(1.02);
 }
-.footer {
-  background: #333;
-  color: #fff;
+.footer{
+  background-color: #1e1e2f;
+  color: azure;
   text-align: center;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   padding: 15px 0;
-  font-size: 14px;
+  font-size: 20px;
 }
